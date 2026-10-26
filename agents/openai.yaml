@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 资产反推"
+  short_description: "将参考资产编译为可复刻、可优化和可二创的高质量执行提示词"
+  default_prompt: "使用 $asset-reverse-engineer 分析这个参考资产，并输出一个可直接执行的高保真复刻或定向二创提示词。"
